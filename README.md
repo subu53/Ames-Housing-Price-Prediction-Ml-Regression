@@ -1,5 +1,3 @@
-![Project Badge](images/ames_project_badge.png)
-
 # 🏠 Ames Housing Price Prediction | Machine Learning Regression Project
 
 ## 📋 Overview
