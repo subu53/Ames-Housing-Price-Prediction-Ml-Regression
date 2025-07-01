@@ -36,3 +36,5 @@ Predicting house prices using the Ames Housing dataset. Achieved **R² = 0.9344*
 - Hyperparameter tuning
 - Model deployment (e.g., via Streamlit)
 - Comparison with LightGBM or CatBoost
+
+## Author: Sammy Subu
